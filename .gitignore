@@ -1,0 +1,5 @@
+db.sqlite3
+superlists/secrets.py
+__pycache__
+*.pyc
+.idea/
