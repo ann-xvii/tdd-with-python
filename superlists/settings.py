@@ -81,6 +81,7 @@ DATABASES = {
 }
 
 
+TEST_RUNNER = 'rainbowtests.test.runner.RainbowDiscoverRunner'
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
